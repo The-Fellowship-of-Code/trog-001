@@ -1,7 +1,7 @@
 # The Riddles of Gollum!
 ## Episode #001 - A whole mess
 
-Welcome to "Gollum's Riddles". If you haven't been here before, this is a place where programming problems of different types will be proposed to be solved.
+Welcome to ***The Riddles of Gollum***, one of the activities that will follow in the *The Fellowship of Code*. If you haven't been here before, this is a place where programming problems of different types will be proposed to be solved.
 
 Without further ado, we leave you with the next problem. 
 
