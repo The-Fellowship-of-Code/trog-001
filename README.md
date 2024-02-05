@@ -18,16 +18,9 @@ We will not modify the original statement:
 
 As you can see, this is a **refactoring exercise**. We are given part of a first program in which we will have to look for ways to improve it. For this we will have to base ourselves on chapter 3 (*"Bad Smells in Code"*) of the mentioned book.
 
-Iterate the following flow until you are happy with the result and think there is no more to do:
+Iterate the following flow until you are happy with the result and think there is no more to do
 
-```mermaid
-flowchart LR
-A[start] --> B{"are  there  any
-bad  smells?"}
-B --> |yes| C[fix it]
-B --> |no| D[end]
-C --> B
-```
+[![](https://mermaid.ink/img/pako:eNpNTsFugzAM_ZXIZ4oohAVy2LS2x52220ileiSsaJBUIWhlwL8vhU2qbVn28_OzRyiNVMChasx3eUbryMur0MTbc9E53x_JZvNIdqOAE1pF3Fn5jHpYSeQDJela1TTd00nAvKK72840qG4i-6Kqr6R2x3WyX9XuadpM5FAoLf8o_xkCaJVtsZb-vfGGCvDXWyWA-1Ki_RIg9Ox52DvzNugSuLO9CqC_SHTqUOOnxRZ4hU3n0Qtq4CNcgT-wkOVZFLMoyVJG4ziAAfg2iUKWxHFGU5pmeUbpHMCPMV4hCvPI-3ab5LkPmrNF7n0ZLvLzL3X6YQA?type=png)](https://mermaid.live/edit#pako:eNpNTsFugzAM_ZXIZ4oohAVy2LS2x52220ileiSsaJBUIWhlwL8vhU2qbVn28_OzRyiNVMChasx3eUbryMur0MTbc9E53x_JZvNIdqOAE1pF3Fn5jHpYSeQDJela1TTd00nAvKK72840qG4i-6Kqr6R2x3WyX9XuadpM5FAoLf8o_xkCaJVtsZb-vfGGCvDXWyWA-1Ki_RIg9Ox52DvzNugSuLO9CqC_SHTqUOOnxRZ4hU3n0Qtq4CNcgT-wkOVZFLMoyVJG4ziAAfg2iUKWxHFGU5pmeUbpHMCPMV4hCvPI-3ab5LkPmrNF7n0ZLvLzL3X6YQA)
 
 ## Comments
 
